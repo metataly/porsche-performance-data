@@ -2,7 +2,7 @@
 Dashboard interativa de análise de 100 registros de vendas Porsche, construída em HTML.
 
 ### 🔗 Dashboard publicada
-
+https://metataly.github.io/porsche-performance-data/
 
 ### Perguntas de negócio
 1. Quais modelos geram maior receita? — barras horizontais com os oito modelos de maior receita no recorte. Ajuda a identificar quais modelos concentram o valor vendido.
